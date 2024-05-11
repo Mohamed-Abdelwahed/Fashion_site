@@ -9,4 +9,4 @@
 - CSS3
 - Flexbox layout
 
-#### can find live demo [Click here ...](https://akirafashiotemplate.netlify.app/)
+#### [Click here to see live demo for project  ...](https://akirafashiotemplate.netlify.app/)
